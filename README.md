@@ -1,4 +1,4 @@
-### Hi there 👋
+### 😼 About me
 I'm a undergraduate student studying Electronic Engineering in Kings College London.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermaolaoye&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
