@@ -1,4 +1,3 @@
-### 😼 About me
 ![IMG_7028](https://github.com/ermaolaoye/ermaolaoye/assets/56563171/c413e429-20a9-46b1-99a9-dc4c054dc231)
 I'm a undergraduate student studying Electronic Engineering in Kings College London.
 
